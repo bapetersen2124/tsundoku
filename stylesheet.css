@@ -1,0 +1,150 @@
+nav ul {
+  padding-left: 0px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+div.jumbotron h1, p {
+  color: #fff;
+  font-family: 'Fredericka the Great', arial;
+  letter-spacing: 1.5px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+hr {
+  width: 500px;
+  padding: auto;
+  color: #64686e
+}
+
+table {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+table > tr {
+  width: 100%;
+}
+
+.header-cover {
+background-image: url("/Users/brooke.petersen/Desktop/Programs/html_basics/assets/images/bookshelf-413705_960_720.jpg");
+background-size: cover;
+height: 100%;
+padding: 96px 0px;
+}
+
+.definition {
+  letter-spacing: 2.5px;
+  font-family: 'Fredericka the Great', arial;
+  font-weight: bolder;
+  font-size: 16px;
+  line-height: 25px;
+  color: #283139;
+}
+
+.icon-bar-left {
+  display: inline-block;
+  width: auto;
+  float: left;
+  padding: 20px 30px;
+  letter-spacing: 1.5px;
+  font-family: 'Fredericka the Great', arial;
+}
+
+.nav-item-padding {
+  padding: 20px 30px;
+}
+
+.navbar-nav {
+  width:100%;
+}
+
+.panel-body p {
+  color: #64686e;
+  font-family: 'Fredericka the Great', arial;
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+
+.panel-height {
+  height:190px;
+}
+
+.icon-bar-right {
+  display: inline-block;;
+  width: auto;
+  height: auto;
+  padding: 20px 30px;
+  font-family: 'Fredericka the Great', arial;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.thick {
+  font-weight:bold;
+}
+
+.panel-title{
+  color: #64686e;
+}
+
+.clear-background {
+  background-color: transparent;
+}
+
+.nav-bottom-padding {
+  padding:10px;
+}
+
+.logo {
+  display: inline-block;
+  max-width:100px;
+  width: 100%;
+  padding: 0px;
+  margin: 0px 10px;
+}
+
+.social-icons {
+  max-width: 50px;
+  width: 100%;
+  max-height:50px;
+  height:100%;
+  padding: 0px 5px;
+  margin: 0px 10px;
+  float: left;
+}
+
+.legal {
+  text-align: center;
+  font-family: 'Fredericka the Great', arial;
+  color: #64686e;
+}
+
+#footer {
+  height: 60px;
+  background-color: #fff;
+}
+
+#footer.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+  margin-bottom: 25px;
+}
+
+#footer li {
+  padding: 0% 1%;
+  text-align: center;
+  display: inline-block;
+}
+
+#footer td {
+  width: 33.3%;
+}
